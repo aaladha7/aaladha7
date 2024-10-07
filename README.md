@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-I'm Ali, a detail oriented Business Analytics graduate student with a solid background in financial analysis with data driven decision making skills. 
-Having hands-on experience in SQL, R, Python and Power BI, I excel at transforming complex data into actionable and strategic business insights.
+##Hi, I’m Ali Ladha 👋
 
+I'm currently pursuing my Master of Science in Business Analytics at the University of Utah, David Eccles School of Business. With a background in financial services management, insurance, and data analytics, I specialize in data-driven decision-making, data visualization, and process improvement. My goal is to leverage my programming and analytical skills to drive business growth through actionable insights.
+
+Skills: SQL, MySQL, Hadoop, Power BI, Tableau, R, Python, JIRA
+Education: M.S. in Business Analytics (2025), B.Comm in Financial Services Management (High Honors)
+Looking for: Analyst roles, internships, or collaborative projects in business analytics and data science.
 <!--
 **aaladha7/aaladha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
