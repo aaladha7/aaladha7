@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Ali, a detail oriented Business Analytics graduate student with a solid background in financial analysis with data driven decision making skills. 
+Having hands-on experience in SQL, R, Python and Power BI, I excel at transforming complex data into actionable and strategic business insights.
+
 <!--
 **aaladha7/aaladha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
