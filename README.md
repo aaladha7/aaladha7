@@ -15,8 +15,7 @@ Connect with me on LinkedIn
 https://www.linkedin.com/in/ali-a-ladha/
 
 
-![image](https://github.com/user-attachments/assets/300d0b6a-f460-40f6-8cc7-59497fbb2245)
-![image](https://github.com/user-attachments/assets/b6b406c2-8a7d-432f-b1ce-caf617be1cd2)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,py,r)](https://skillicons.dev)
 
 
 
