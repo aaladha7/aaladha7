@@ -13,7 +13,6 @@ Check out my projects: [Repositories](https://github.com/aaladha7?tab=repositori
 
 
 Connect with me on LinkedIn
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 [LinkedIn](https://www.linkedin.com/in/ali-a-ladha/)
 
 
