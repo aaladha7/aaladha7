@@ -15,6 +15,7 @@ Connect with me on LinkedIn
 https://www.linkedin.com/in/ali-a-ladha/
 
 ![image](https://github.com/user-attachments/assets/b304e31d-0a38-4ed5-a139-70065901215b)
+![image](https://github.com/user-attachments/assets/dab3d153-5f79-4a43-b8a0-fd512a8b0e48)
 
 
 
