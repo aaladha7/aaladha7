@@ -4,7 +4,7 @@ I'm Ali, currently pursuing my Master of Science in Business Analytics at the Un
 
 Skills: SQL, MySQL, Hadoop, Power BI, Tableau, R, Python, JIRA
 
-Education: Masters in Business Analytics (ETA December 2025), B.Comm in Financial Services Management (High Honors)
+Education: Masters in Business Analytics (December 2025), B.Comm in Financial Services Management (High Honors)
 Looking for: Analyst roles, internships, or collaborative projects in business analytics and data science.
 
 Check out my projects: https://github.com/aaladha7?tab=repositories
