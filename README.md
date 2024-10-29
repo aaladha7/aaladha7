@@ -12,7 +12,7 @@ Looking for: Analyst roles, internships, or collaborative projects in business a
 Check out my projects: [Repositories](https://github.com/aaladha7?tab=repositories)
 
 
-Lets connect on LinkedIn
+Connect with me on LinkedIn:
 
 [LinkedIn](https://www.linkedin.com/in/ali-a-ladha/)
 
