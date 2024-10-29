@@ -13,6 +13,7 @@ Check out my projects: [Repositories](https://github.com/aaladha7?tab=repositori
 
 
 Connect with me on LinkedIn
+
 [LinkedIn](https://www.linkedin.com/in/ali-a-ladha/)
 
 
