@@ -6,6 +6,9 @@ Skills: SQL, MySQL, Hadoop, Power BI, Tableau, R, Python, JIRA
 
 Education: M.S. in Business Analytics (2025), B.Comm in Financial Services Management (High Honors)
 Looking for: Analyst roles, internships, or collaborative projects in business analytics and data science.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaladha7)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **aaladha7/aaladha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
