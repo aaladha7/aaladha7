@@ -7,6 +7,9 @@ Skills: SQL, MySQL, Hadoop, Power BI, Tableau, R, Python, JIRA
 Education: M.S. in Business Analytics (2025), B.Comm in Financial Services Management (High Honors)
 Looking for: Analyst roles, internships, or collaborative projects in business analytics and data science.
 
+Check out my projects: https://github.com/aaladha7?tab=repositories
+
+
 Connect with me on LinkedIn
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-a-ladha/)  
 
