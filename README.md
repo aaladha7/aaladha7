@@ -14,9 +14,6 @@ Connect with me on LinkedIn
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-a-ladha/)  
 https://www.linkedin.com/in/ali-a-ladha/
 
-![image](https://github.com/user-attachments/assets/b304e31d-0a38-4ed5-a139-70065901215b)
-![image](https://github.com/user-attachments/assets/dab3d153-5f79-4a43-b8a0-fd512a8b0e48)
-
 
 
 <!--
