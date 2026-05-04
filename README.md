@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm Ali, currently pursuing the Masters of Science in Business Analytics at the University of Utah, David Eccles School of Business. With a solid background in data analytics, financial services management, and insurance, I specialize in data-driven decision-making, data visualization, and process improvement. My goal is to leverage my programming and analytical skills to drive business growth through actionable insights.
+I'm Ali, a Masters of Science in Business Analytics graduate from the University of Utah, David Eccles School of Business. With a solid background in data analytics, financial services management, and insurance, I specialize in data driven decision-making, data visualization, and process improvement. My goal is to leverage my programming and analytical skills to drive business growth through actionable insights.
 
 Skills: SQL, MySQL, Hadoop, Power BI, Tableau, R, Python, JIRA
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,py,r)](https://skillicons.dev)
 
 Education: Masters in Business Analytics (December 2025), B.Comm in Financial Services Management (High Honors)
-Looking for: Analyst roles, internships, or collaborative projects in business analytics and data science.
+Looking for: Analyst roles or collaborative projects in business analytics and data science.
 
 Check out my projects:
 
